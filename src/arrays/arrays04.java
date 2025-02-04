@@ -20,7 +20,7 @@ public class arrays04 {
         int[] highScorer = new int[pattern.length];
         for (int i = 0; i < answer.length ; i++) {
             for (int j = 0; j < pattern.length; j++) {
-                if(answer[i] == pattern[j][i % pattern[j].length]{
+                if(answer[i] == pattern[j][i % pattern[j].length]){
                         highScorer[j]++;
                 }
             }
