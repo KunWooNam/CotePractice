@@ -2,7 +2,7 @@ package arrays;
 
 import java.util.Arrays;
 
-public class arrays05 {
+public class Arrays05 {
 
     public static void main(String[] args) {
         //행렬의 곱셈 O(N^3)

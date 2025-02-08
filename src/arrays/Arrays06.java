@@ -3,7 +3,7 @@ package arrays;
 import java.util.Arrays;
 import java.util.HashMap;
 
-public class arrays06 {
+public class Arrays06 {
 
     public static void main(String[] args) {
 

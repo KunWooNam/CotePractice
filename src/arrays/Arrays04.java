@@ -3,7 +3,7 @@ package arrays;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class arrays04 {
+public class Arrays04 {
 
     public static void main(String[] args) {
 

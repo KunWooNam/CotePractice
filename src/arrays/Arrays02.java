@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.TreeSet;
 
-public class arrays02 {
+public class Arrays02 {
 
     public static void main(String[] args) {
         // Arrays sort And Remove Duplication

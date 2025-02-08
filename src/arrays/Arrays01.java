@@ -2,7 +2,7 @@ package arrays;
 
 import java.util.Arrays;
 
-public class arrays01 {
+public class Arrays01 {
 
     public static void main(String[] args) {
         // Arrays sort

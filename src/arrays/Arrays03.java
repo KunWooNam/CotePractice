@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
-public class arrays03 {
+public class Arrays03 {
 
     public static void main(String[] args) {
         //two random number sum arrays
